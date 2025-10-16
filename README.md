@@ -1,3 +1,3 @@
 # First
 That's my test project
-https://marnarpro.github.io/First/
+<a href="jetbrains://web-storm/navigate/reference?project=untitled&path=first.html">Click here</a>
